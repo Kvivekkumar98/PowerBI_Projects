@@ -1,4 +1,4 @@
-# Airlines-Dashboard
+# Sales Performance Data Analysis & Dashboard
 
 ### Dashboard Link : https://github.com/Kvivekkumar98/PowerBI_Projects/blob/main/PowerBI_Dashboard_snap.JPG
 
