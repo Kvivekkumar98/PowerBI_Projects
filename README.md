@@ -4,11 +4,12 @@
 
 ## Problem Statement
 
-This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
+A retail business faced challenges in tracking sales performance across multiple dimensions, including product brands, regions, and states. Due to manual reporting limitations, decision-makers lacked real-time insights into key metrics such as:
 
-Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
-
-Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
+Total Revenue – Difficulty in analyzing revenue trends and meeting sales targets.
+Product Performance – Identifying the most and least profitable brands.
+Regional Sales Distribution – Understanding revenue contributions from different geographic locations.
+State-wise Transactions – Visualizing transaction volume and identifying high-performing areas.
 
 
 ### Steps followed 
