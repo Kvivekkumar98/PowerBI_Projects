@@ -6,10 +6,10 @@
 
 A retail business faced challenges in tracking sales performance across multiple dimensions, including product brands, regions, and states. Due to manual reporting limitations, decision-makers lacked real-time insights into key metrics such as:
 
-Total Revenue – Difficulty in analyzing revenue trends and meeting sales targets.
-Product Performance – Identifying the most and least profitable brands.
-Regional Sales Distribution – Understanding revenue contributions from different geographic locations.
-State-wise Transactions – Visualizing transaction volume and identifying high-performing areas.
+- Total Revenue – Difficulty in analyzing revenue trends and meeting sales targets.
+- Product Performance – Identifying the most and least profitable brands.
+- Regional Sales Distribution – Understanding revenue contributions from different geographic locations.
+- State-wise Transactions – Visualizing transaction volume and identifying high-performing areas.
 
 
 ### Steps followed 
