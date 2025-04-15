@@ -30,7 +30,7 @@ A retail business faced challenges in tracking sales performance across multiple
 ### 🔧 Tech Stack
 - Power BI – For data visualization and dashboard creation.
 
-- SQL (optional) – For data extraction and transformation.
+- SQL – For data extraction and transformation.
 
 - Excel/CSV – Data source for sales data.
 
