@@ -31,4 +31,4 @@ A retail business faced challenges in tracking sales performance across multiple
 
 
 ### 🔗 Result And Dashboard Preview
-####https://github.com/Kvivekkumar98/PowerBI_Projects/blob/main/Sales%20Performance%20Data%20Analysis.pdf
+https://github.com/Kvivekkumar98/PowerBI_Projects/blob/main/Sales%20Performance%20Data%20Analysis.pdf
